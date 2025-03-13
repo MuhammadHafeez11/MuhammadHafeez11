@@ -43,7 +43,7 @@ Currently, I'm **expanding my expertise** by working on real-world projects, imp
 ---
 
 ## **📌 Connect With Me**
-🔗 **LinkedIn:** [linkedin.com/in/muhammadhafeez](https://www.linkedin.com/in/muhammadhafeez)  
+🔗 **LinkedIn:** [linkedin.com/in/muhammadhafeez](https://www.linkedin.com/in/muhammad-hafeez-b7649b308)  
 🔗 **GitHub:** [github.com/MuhammadHafeez11](https://github.com/MuhammadHafeez11)  
 
 🚀 **Let's build something amazing together!** Feel free to connect or check out my work.  
