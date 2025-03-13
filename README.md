@@ -1,8 +1,6 @@
 ### **Muhammad Hafeez**  
 🚀 **MERN Stack Developer | Full-Stack Enthusiast | Passionate Learner**  
 
-![GitHub Banner](https://source.unsplash.com/1600x500/?technology,coding)  
-
 Hi! I'm **Muhammad Hafeez**, a passionate **MERN Stack Developer** with a strong foundation in **React, Node.js, Express, and MongoDB**. I love building user-friendly, efficient, and scalable web applications.  
 
 Currently, I'm **expanding my expertise** by working on real-world projects, improving my backend skills, and refining my frontend UI/UX for an immersive user experience.  
