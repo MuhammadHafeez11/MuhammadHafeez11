@@ -1,15 +1,51 @@
-- 👋 Hi, I’m @MuhammadHafeez11
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning MAD(Mobile App Developement)
-- 💞️ I’m looking to collaborate on amazing MAD projects.
-- 📫 How to reach me guestposting819@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: Did you know that the first computer "bug" was actually a real insect?
-- In 1947, when Grace Hopper was working on the Harvard Mark II computer, she found a moth causing a malfunction.
--  She removed it and taped it to the logbook with the caption "First actual case of bug being found."
--  This incident led to the term "debugging" in computer science!
+### **Muhammad Hafeez**  
+🚀 **MERN Stack Developer | Full-Stack Enthusiast | Passionate Learner**  
 
-<!---
-MuhammadHafeez11/MuhammadHafeez11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Banner](https://source.unsplash.com/1600x500/?technology,coding)  
+
+Hi! I'm **Muhammad Hafeez**, a passionate **MERN Stack Developer** with a strong foundation in **React, Node.js, Express, and MongoDB**. I love building user-friendly, efficient, and scalable web applications.  
+
+Currently, I'm **expanding my expertise** by working on real-world projects, improving my backend skills, and refining my frontend UI/UX for an immersive user experience.  
+
+---
+
+## **🔹 About Me**  
+- 🏢 **Experience:** 6+ months working in a software house  
+- 📚 **Learning & Practicing:** MERN Stack, API development, Database optimization  
+- 🚀 **Current Project:** **Story Haven** - An online book-reading platform  
+- 🌍 **Open to:** Collaborations, freelance work, and exciting opportunities  
+
+---
+
+## **📌 Technical Skills**
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose  
+- **Tools & Platforms:** Git, GitHub, Firebase, JWT, Axios  
+- **Others:** REST APIs, Payment Integration, Authentication, Web Security  
+
+---
+
+## **📌 My Projects**
+### **1️⃣ Story Haven 📚**
+> An immersive online book-reading platform with bookmarking, smooth UI, and API-based book fetching.  
+🔗 [View on GitHub](https://github.com/MuhammadHafeez11/Story-Haven)  
+
+### **2️⃣ GoldTrack Pro 💰**
+> A gold transaction management system with customer tracking, advanced search, and professional dashboard.  
+🔗 [View on GitHub](https://github.com/MuhammadHafeez11/GoldTrack-Pro)  
+
+(More projects coming soon...)  
+
+---
+
+## **📌 GitHub Stats**
+![Muhammad Hafeez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHafeez11&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHafeez11&layout=compact&theme=dark)  
+
+---
+
+## **📌 Connect With Me**
+🔗 **LinkedIn:** [linkedin.com/in/muhammadhafeez](https://www.linkedin.com/in/muhammadhafeez)  
+🔗 **GitHub:** [github.com/MuhammadHafeez11](https://github.com/MuhammadHafeez11)  
+
+🚀 **Let's build something amazing together!** Feel free to connect or check out my work.  
