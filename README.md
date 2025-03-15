@@ -10,13 +10,13 @@ Currently, I'm **expanding my expertise** by working on real-world projects, imp
 ## **🔹 About Me**  
 - 🏢 **Experience:** 6+ months working in a software house  
 - 📚 **Learning & Practicing:** MERN Stack, API development, Database optimization  
-- 🚀 **Current Project:** **Q E.** - Real time browser based shop managment integrated with FBR (Federal Board of Revenue)
+- 🚀 **Current Project:** **QE.** - Real time browser based shop managment integrated with FBR (Federal Board of Revenue)
 - 🌍 **Open to:** Collaborations, freelance work, and exciting opportunities  
 
 ---
 
 ## **📌 Technical Skills**
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 - **Tools & Platforms:** Git, GitHub, Firebase, JWT, Axios  
 - **Others:** REST APIs, Payment Integration, Authentication, Web Security  
