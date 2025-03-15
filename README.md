@@ -1,5 +1,4 @@
-### **Muhammad Hafeez**  
-🚀 **MERN Stack Developer | Full-Stack Enthusiast | Passionate Learner**  
+ 🚀 **MERN Stack Developer | Full-Stack Enthusiast | Passionate Learner**  
 
 Hi! I'm **Muhammad Hafeez**, a passionate **MERN Stack Developer** with a strong foundation in **React, Node.js, Express, and MongoDB**. I love building user-friendly, efficient, and scalable web applications.  
 
@@ -10,7 +9,7 @@ Currently, I'm **expanding my expertise** by working on real-world projects, imp
 ## **🔹 About Me**  
 - 🏢 **Experience:** 6+ months working in a software house  
 - 📚 **Learning & Practicing:** MERN Stack, API development, Database optimization  
-- 🚀 **Current Project:** **QE.** - Real time browser based shop managment integrated with FBR (Federal Board of Revenue)
+- 🚀 **Current Project:** **QE.** - Real-time browser-based shop management integrated with FBR (Federal Board of Revenue)  
 - 🌍 **Open to:** Collaborations, freelance work, and exciting opportunities  
 
 ---
@@ -28,7 +27,11 @@ Currently, I'm **expanding my expertise** by working on real-world projects, imp
 > An immersive online book-reading platform with bookmarking, smooth UI, and API-based book fetching.  
 🔗 [View on GitHub](https://github.com/MuhammadHafeez11/Story-Haven)  
 
-### **2️⃣ GoldTrack Pro 💰**
+### **2️⃣ LearnSphere 🎓**
+> An online learning platform with teacher & student dashboards, course management, secure payments, and interactive learning features.  
+🔗 [View on GitHub](https://github.com/MuhammadHafeez11/LearnSphere-Online-Learning-Platform)  
+
+### **3️⃣ GoldTrack Pro 💰**
 > A gold transaction management system with customer tracking, advanced search, and professional dashboard.  
 🔗 [View on GitHub](https://github.com/MuhammadHafeez11/GoldTrack-Pro)  
 
